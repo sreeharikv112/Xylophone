@@ -13,7 +13,7 @@ In iPhone<br>
 
 <br><br>
 
-In IPad<br>
+In iPad<br>
 
 <img width="588" alt="Screenshot 2019-05-29 at 10 58 47 AM" src="https://user-images.githubusercontent.com/39777674/58531791-2b077d00-8201-11e9-9aba-068a14fda7e7.png">
 
