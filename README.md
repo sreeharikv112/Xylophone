@@ -2,8 +2,11 @@
 Xylophone Demo App which can play sounds on click of buttons
 
 
-Simple App which plays sound like Xylophone on click of corresponding buttons.
+Simple App which plays sound like Xylophone on click of corresponding buttons. <br><br>
 
+![180](https://user-images.githubusercontent.com/39777674/58531996-d7e1fa00-8201-11e9-92fa-0ec9da3d2611.png)
+
+<br>
 Works with iPhone and IPad.
 
 In iPhone<br>
