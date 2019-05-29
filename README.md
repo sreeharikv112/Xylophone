@@ -9,15 +9,13 @@ Simple App which plays sound like Xylophone on click of corresponding buttons. <
 <br>
 Works with iPhone and IPad.
 
-In iPhone<br>
+In iPhone <br>
 
-<img width="429" alt="Screenshot 2019-05-29 at 11 00 16 AM" src="https://user-images.githubusercontent.com/39777674/58531750-0d3a1800-8201-11e9-8d24-93ca8f6bf73f.png">
+<img width="466" alt="Screenshot 2019-05-29 at 10 12 51 PM" src="https://user-images.githubusercontent.com/39777674/58575239-4c975180-825f-11e9-92f6-0ab40be6a96e.png">
 
-
-<br><br>
+<br>
 
 In iPad<br>
 
-<img width="588" alt="Screenshot 2019-05-29 at 10 58 47 AM" src="https://user-images.githubusercontent.com/39777674/58531791-2b077d00-8201-11e9-9aba-068a14fda7e7.png">
-
+<img width="606" alt="Screenshot 2019-05-29 at 10 14 07 PM" src="https://user-images.githubusercontent.com/39777674/58575357-7cdef000-825f-11e9-90af-c92bbfe6e03c.png">
 
