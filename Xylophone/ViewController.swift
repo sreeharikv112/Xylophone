@@ -14,9 +14,30 @@ class ViewController: UIViewController {
     var mAudioPlayer: AVAudioPlayer!
     let mSoundArray = ["note1","note2","note3","note4","note5","note6","note7"]
     
+    @IBOutlet weak var mNote1: UIButton!
+    @IBOutlet weak var mNote2: UIButton!
+    @IBOutlet weak var mNote3: UIButton!
+    @IBOutlet weak var mNote4: UIButton!
+    @IBOutlet weak var mNote5: UIButton!
+    @IBOutlet weak var mNote6: UIButton!
+    @IBOutlet weak var mNote7: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        drawShadow(mNote1)
+        drawShadow(mNote2)
+        drawShadow(mNote3)
+        drawShadow(mNote4)
+        drawShadow(mNote5)
+        drawShadow(mNote6)
+        drawShadow(mNote7)
+    }
+    
+    func drawShadow(_ button: UIButton){
+        button.layer.shadowOpacity = 0.7
+        button.layer.shadowOffset = CGSize(width: 5.0, height: 5.0)
     }
 
     
